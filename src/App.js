@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div>
-      My react application is now published
+      Updated react application is now published
       </div>
     );
   }
