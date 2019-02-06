@@ -1,7 +1,7 @@
 {
   "main.css": "/forfun/static/css/main.6d4b6380.chunk.css",
-  "main.js": "/forfun/static/js/main.9c673842.chunk.js",
-  "main.js.map": "/forfun/static/js/main.9c673842.chunk.js.map",
+  "main.js": "/forfun/static/js/main.50231f8e.chunk.js",
+  "main.js.map": "/forfun/static/js/main.50231f8e.chunk.js.map",
   "static/js/1.d35ebfcd.chunk.js": "/forfun/static/js/1.d35ebfcd.chunk.js",
   "static/js/1.d35ebfcd.chunk.js.map": "/forfun/static/js/1.d35ebfcd.chunk.js.map",
   "runtime~main.js": "/forfun/static/js/runtime~main.23ff97d0.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/forfun/static/media/logo.5d5d9eef.svg",
   "static/css/main.6d4b6380.chunk.css.map": "/forfun/static/css/main.6d4b6380.chunk.css.map",
   "index.html": "/forfun/index.html",
-  "precache-manifest.aafbcaed00ec97fbe8e10f874fd0b699.js": "/forfun/precache-manifest.aafbcaed00ec97fbe8e10f874fd0b699.js",
+  "precache-manifest.3d33cc4dcc9d0c0a2fb4e397cfc9e885.js": "/forfun/precache-manifest.3d33cc4dcc9d0c0a2fb4e397cfc9e885.js",
   "service-worker.js": "/forfun/service-worker.js"
 }
